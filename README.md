@@ -6,4 +6,5 @@ Echange Rate uses JSON data (from http://www.floatrates.com/daily/usd.json) with
 
 
 
-![image](https://user-images.githubusercontent.com/59028898/227929921-e81784ba-7b1a-4d1a-a5da-5d516dce339f.png)
+![image](https://user-images.githubusercontent.com/59028898/227931007-72662c92-72bb-4abe-9bcc-2af42a608fe0.png)
+
