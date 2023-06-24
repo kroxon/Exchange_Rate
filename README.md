@@ -1,5 +1,8 @@
 # Exchange_Rate
 
+![iconer](https://github.com/kroxon/Exchange_Rate/assets/59028898/a630120e-ce80-4985-9409-59123cc766eb)
+
+
 This is a currency conversion calculator. The user can easily select from more than 140 currencies for comparison. In addition, the application displays basic information about the currencies in the Recycler View.
 
 Echange Rate uses JSON data (from http://www.floatrates.com/daily/usd.json) with the latest exchange rates, which are updated daily (once every 12 hours at 12 AM/PM). 
